@@ -11,6 +11,7 @@ Examples
 
 const century = year => Math.ceil(year/100)
 
+// next
 Given a number n, return the number of positive odd numbers below n, EASY!
 Examples (Input -> Output)
 
@@ -22,3 +23,5 @@ Expect large Inputs!
 function oddCount(n){
     return Math.floor(n/2);
   }
+
+  
