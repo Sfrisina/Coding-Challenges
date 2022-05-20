@@ -20,8 +20,9 @@ function sumMul(n,m){
       return "INVALID"
     }else{
       let sum = 0
-      for(let i = n; i > m; i += n){
+      for(let i = n; i < m; i += n){
          sum += i
         }
+      return sum
       }
       }
