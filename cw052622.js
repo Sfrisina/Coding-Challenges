@@ -11,4 +11,4 @@ function sumMix(x){
   //P - array of number strings and numbers
   //R - return the sum of the array 
   //E - assert.strictEqual(sumMix([9, 3, '7', '3']), 22);
-  //P - convert string to number than add up the entire array
+  //P - convert string to number than add up the entire array.
